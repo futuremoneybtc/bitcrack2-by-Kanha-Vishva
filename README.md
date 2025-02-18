@@ -1,3 +1,9 @@
+I am not the author -- just clone it here for ease of access.
+Original code by @kanhavishva, which can be found in https://codesandbox.io/p/sandbox/kanhavishvabitcrack2-l758l
+
+------------------------------------
+kanhavishva's original texts
+
 # BitCrack2
 _Hunt for Bitcoin private keys._
 
